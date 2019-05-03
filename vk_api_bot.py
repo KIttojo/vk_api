@@ -1,6 +1,6 @@
 import vk_api
 
-file = open('C:\\Users\\denis\\Desktop\\Python 3\\vk_mes_bot\\accounts.txt','r')
+file = open('C:\\Users\\denis\\Desktop\\Python 3\\vk_mes_bot\\accounts.txt','r') # change path to your own
 
 a = file.readlines() # we have array of arrays [[l:p],[l2:p2]]
 choose = input("What do you want to like? \n(post, photo, video)? ")
