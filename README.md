@@ -1,6 +1,6 @@
 It's a simple using vk_api scrips for autoliking any public post/video/photo.
 
-To use this script you shell have installed Python 3.0 + on your PC.
+To use this script you shall have installed Python 3.0 + on your PC.
 
 There are few steps to start:
 1. Open .txt file and fill in gaps with your fakes accounts logins and passwords.
