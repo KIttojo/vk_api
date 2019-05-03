@@ -57,5 +57,5 @@ for x in a:
 		print(error_msg)
 
 	vk = vk_session.get_api()
-	print("_owner_id =" +"".join(_owner_id) +". And _item_id =" +"".join(_item_id))
+	
 	print(vk.likes.add(type = choose, owner_id = "".join(_owner_id), item_id = "".join(_item_id)))
