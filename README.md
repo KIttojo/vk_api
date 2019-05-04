@@ -1,4 +1,4 @@
-It's a simple using vk_api scrips for autoliking any public post/video/photo.
+It's a simple using vk_api script for autoliking any public post/video/photo.
 
 To use this script you shall have installed Python 3.0 + on your PC.
 
